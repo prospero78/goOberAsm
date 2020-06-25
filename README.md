@@ -1,2 +1,5 @@
 # goOberAsm
-virtual assembler for OberonVM
+Виртуальный процессор для OberonVM
+
+
+Содержит в себе модель процессора, и соответственно ассемблера.
